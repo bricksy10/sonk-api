@@ -1,22 +1,24 @@
-sonk-api
-# Application Title: A Description
+SONK-API
+# Application Title: Sonk Athlete Profile
 
-This application allows the user to do x, y, and z. Maybe here's a reason why I wanted to do this project, or
-came up with this idea.
+This application allows the user to create a profile page, make posts to their page, and interact with other athlete pages.
 
 ## Important Links
 
-- [Other Repo](www.link.com)
-- [Deployed API](www.link.com)
-- [Deployed Client](www.link.com)
-
+- [Other Repo](https://github.com/bricksy10/sonk-client)
+- [Deployed API](https://pacific-sierra-23796.herokuapp.com/)
+- [Deployed Client](https://bricksy10.github.io/)
 ## Planning Story
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id ornare magna. Curabitur leo arcu, elementum in posuere vitae, rutrum eu urna. Quisque tincidunt nulla sed mi cursus, nec tristique est fermentum. Etiam lacinia id neque ut egestas. Sed consequat convallis felis nec posuere. Sed non eros sed velit viverra tincidunt. Etiam et tortor sit amet lacus volutpat dignissim. Vestibulum convallis, felis a posuere pretium, turpis enim sollicitudin neque, pretium finibus leo metus sed sapien. Praesent iaculis pharetra nunc ac rhoncus. Duis eu risus in est porttitor egestas sit amet eget metus. Maecenas iaculis auctor ullamcorper. Donec pretium dolor non nisl egestas bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper pulvinar orci interdum mattis. Ut gravida volutpat mauris, a semper risus maximus ut.
+- Plan a layout with wireframes and user stories
+- Plan the resource relationship with ERD
+- Refer back to previous API's as a guide
 
 ### User Stories
-
-- As a user I want to sign in/up
+- As an unregistered user I want to be able to sign up with email, pw, and pw confirmation
+- As an registered user I want to be able to sign in with email and pw
+- As a signed in user I want to be able to change my password
+- As a signed in user I want to be able to sign out
 - As a user I want to Create a new < resource >
 - As a user I want to Read multiple < resources >
 - As a user I want to Read a single < resource >
@@ -28,17 +30,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id ornare magna
 - jQuery
 - HTML/CSS
 - Bootstrap
+- Handlebars
 - Javascript
 
 ### Unsolved Problems
 
-- Still need to ....
-- Would like to eventually ....
+- Still need to pretty the page
+- Would like to eventually add stretch goal features
 
 ## Images
 
 ---
 
 #### Wireframe:
-![wireframe](https://lucidchart.zendesk.com/hc/article_attachments/360001080866/Facebook_Wireframe_-_New_Page.png)
+![wireframe](https://imgur.com/jwWd8aw)
 # sonk-api
